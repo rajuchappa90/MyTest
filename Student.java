@@ -1,6 +1,6 @@
 class Student{
-  int id;
-  String name;
+  int sid;
+  String sname;
   String gender;
   double salary;
   boolean Active;
