@@ -4,7 +4,7 @@ welcome
 to 
 GitHub
 By
-
-this is new line added
+THIS IS FROM REMOTE
+REMOTE LINE IS HERE
 
 
